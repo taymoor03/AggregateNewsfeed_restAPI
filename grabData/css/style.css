@@ -1,0 +1,73 @@
+.wrapper{min-width:940px !important;}
+.container{width:90% !important;margin: 0 auto !important;}
+.header{width: 100% !important;z-index:2 !important;}
+
+.logo{float:left;padding: 20px 0;}
+.nav{float: right !important; margin-top: 10px !important; border-radius: 5px !important;}
+.nav li{float: left !important;padding: 13px 15px !important;font-weight: 500 !important;}
+.nav li:hover{background-color: black !important;cursor: pointer !important;}
+
+h2, h3{
+	font-size: 17px;
+	font-family: arial, times new roman;
+	font-weight: bold;
+}
+a:hover{
+	color:red;
+}
+
+.new{
+	color:black;
+}
+.new:hover{
+	text-decoration: none;
+}
+.nav-link{
+	color: white !important;
+}
+
+h4 {
+    padding-top: 10px !important;
+}
+
+.mt-3, .my-3 {
+    margin-top: 0px !important;
+}
+
+h4.h4.mt-5 {
+    margin-top: 2px !important;
+}
+.mt-5, .my-5 {
+    margin-top: 2px !important;
+}
+
+select.form-control:not([size]):not([multiple]) {
+    margin-left: 15px ;
+}
+
+
+
+
+div.col-md-4  {
+    border-right: 1px solid silver !important;
+}
+
+
+.update {
+    background-color: #4CAF50 ; /* Green */
+  border: none ;
+  color: white ;
+  padding: 10px 20px ;
+  text-align: center ;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 15px;
+  cursor: pointer;
+}
+
+
+.update:hover {
+    background-color: #000 ;
+  
+}
